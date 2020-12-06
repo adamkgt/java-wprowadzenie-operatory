@@ -9,5 +9,3 @@ class App2 {
 		System.out.println("Obwód koła wynosi: "+ob);
 	}
 }
-
-	
